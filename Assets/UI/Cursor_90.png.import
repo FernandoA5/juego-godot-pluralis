@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Terreno.png-bb603f2fa845d11f9ad8ae2417c27e8b.stex"
+path="res://.import/Cursor_90.png-ab31a8fbba5475f2148d99dc1b53072e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tileset/Terreno.png"
-dest_files=[ "res://.import/Terreno.png-bb603f2fa845d11f9ad8ae2417c27e8b.stex" ]
+source_file="res://Assets/UI/Cursor_90.png"
+dest_files=[ "res://.import/Cursor_90.png-ab31a8fbba5475f2148d99dc1b53072e.stex" ]
 
 [params]
 
