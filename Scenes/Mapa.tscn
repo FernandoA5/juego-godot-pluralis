@@ -38,6 +38,7 @@
 extents = Vector2( 16, 32 )
 
 [node name="Mapa" type="Node2D"]
+position = Vector2( -5, 0 )
 
 [node name="contenedor_tilemaps" type="Node2D" parent="."]
 
